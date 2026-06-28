@@ -14,7 +14,7 @@ This project analyzes inventory, sales, and warehouse data using MySQL to identi
 ## Analysis Performed
 
 - Compared warehouse capacity utilization
-- Calculated inventory value by warehouse
+- Calculated inventory value by warehouse code
 - Analyzed sales volume and revenue
 - Calculated inventory turnover
 - Identified slow-moving products
